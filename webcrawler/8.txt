@@ -1,0 +1,41 @@
+<div class="shownewdes"><p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150325/20150325140343_2995.jpg" alt="" />
+</p>
+<p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150327/20150327182910_2600.jpg" alt="" />
+</p>
+<p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150327/20150327182915_6353.jpg" alt="" />
+</p>
+<p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150327/20150327182921_1807.jpg" alt="" />
+</p>
+<p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150327/20150327182926_3680.jpg" alt="" />
+</p>
+<p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150327/20150327182931_1142.jpg" alt="" />
+</p>
+<p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150327/20150327182935_6525.jpg" alt="" />
+</p>
+<p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150327/20150327182939_9417.jpg" alt="" />
+</p>
+<p style="text-align:center;">
+	<img src="http://www.qiegaowz.com/Content/UploadFiles/image/20150325/20150325140526_4364.jpg" alt="" />
+</p><br><div class="baiduShare">
+<style type="text/css">
+#bdshare { float:right !important; width:180px; }
+#bdshare span.bds_more, .bds_tools a { line-height:14px; }
+.baiduShare { margin-bottom:5px; }
+</style>
+<!-- Baidu Button BEGIN -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+<span class="bds_more">分享到：</span>
+<a class="bds_qzone"></a>
+<a class="bds_tsina"></a>
+<a class="bds_tqq"></a>
+<a class="bds_renren"></a>
+<a class="bds_t163"></a>
+</div>

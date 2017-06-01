@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<title>jquery.stamper演示</title>
+		<script src="../../jQuery/jquery2.0.min.js"></script>
+		<script src="stamper.js"></script>
+		<script>
+			function demo_stamp() {
+		$("#stamper").stamper({
+			image : "aaa.jpg",
+			scale : 6,
+			speed : 0.01
+		});
+	}
+	
+		</script>
+		<div class="aaa" style="width:80%;height:90px;">
+		
+		<span id="" onclick="demo_stamp()"> 点击</span>
+			
+		</div>
+		<div class="aaa" style="width:80%;height:90px;">
+		<span style="width:300px"></span>
+		<span style="float:right;display:inline-block" id="stamper">
+			盖章处：
+		</span>
+		</div>
+	</head>
+</html>
